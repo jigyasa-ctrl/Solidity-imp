@@ -1,9 +1,9 @@
-pragma solidity ^0.8.3;
+pragma solidity ^0.8.13;
 
 contract Variables{
 
     //state variables are stored on the blockchain
-    
+
     uint public test = 123;
     string public text = "hey There";
 

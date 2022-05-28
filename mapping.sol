@@ -1,4 +1,4 @@
-pragma solidity ^0.8.3;
+pragma solidity ^0.8.13;
 // mapping observe 1-D array
 contract Mapping{
     mapping(address => uint) public mymap;
